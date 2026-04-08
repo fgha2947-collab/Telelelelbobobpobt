@@ -10,8 +10,8 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, BotComm
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
 # ===================== تكوينات =====================
-BOT_TOKEN = '8790288252:AAE-oblZVJF2AagL0hqJ5-TpI_ZMbkEQzV4'
-ADMIN_ID = 2079792781
+BOT_TOKEN = ''
+ADMIN_ID = 12345678
 FORCE_SUB_CHANNEL_DEFAULT = ""
 # =================================================
 
